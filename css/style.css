@@ -614,9 +614,9 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: white;
-		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
-		color: inherit;
+		background: #89cff0;
+		/*box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);*/
+		color: black;
 		cursor: default;
 		font-size: 0.8em;
 		left: 0;
