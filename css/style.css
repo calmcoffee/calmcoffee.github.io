@@ -63,7 +63,7 @@
 		font-weight: 300;
 		line-height: 1.75em;
 		margin-bottom: 1em;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -331,7 +331,7 @@
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus {
+			.icon.circle.fa-instagram {
 				background: #db6b67;
 				color: white;
 			}
@@ -516,7 +516,7 @@
 		line-height: 3.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 
 		input[type="button"]:hover,
@@ -640,7 +640,7 @@
 			letter-spacing: 0.075em;
 			position: absolute;
 			right: 1.5em;
-			text-transform: uppercase;
+			text-transform: none;
 			top: 0.75em;
 		}
 
@@ -749,7 +749,7 @@
 		line-height: 2.25em;
 		min-width: 13em;
 		padding: 1em 0;
-		text-transform: uppercase;
+		text-transform: none;
 		margin-top: calc(-1em + 1px);
 	}
 
@@ -835,28 +835,28 @@
 
 			#banner .inner header {
 				display: inline-block;
-				border-bottom: solid 2px;
-				border-top: solid 2px;
+				border-bottom: solid 1px;
+				border-top: solid 1px;
 				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
 
 				#banner .inner header h2 {
-					border-bottom: solid 2px;
-					border-top: solid 2px;
+					/* border-bottom: solid 2px; */
+					/*border-top: solid 2px; */
 					font-size: 2.5em;
 					font-weight: 900;
 					letter-spacing: 0.2em;
 					margin: 0;
 					padding-left: 0.05em;
 					position: relative;
-					text-transform: uppercase;
+					text-transform: lowercase;
 				}
 
 			#banner .inner p {
 				letter-spacing: 0.1em;
 				margin: 0;
-				text-transform: uppercase;
+				text-transform: lowercase;
 			}
 
 				#banner .inner p a {
@@ -1043,7 +1043,7 @@
 		color: white;
 		font-size: 0.8em;
 		letter-spacing: 0.075em;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 
 		#topPanel nav,
