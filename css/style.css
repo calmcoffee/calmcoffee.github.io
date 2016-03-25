@@ -572,12 +572,12 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #89cff0;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: white;
+			color: black;
 		}
 
 			.wrapper.style2 .button:hover {
@@ -586,13 +586,13 @@
 
 			.wrapper.style2 .button.special {
 				background: white;
-				border-color: white;
+				border-color: black;
 				color: #83d3c9 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
 					border-color: inherit !important;
-					color: white !important;
+					color: black !important;
 				}
 
 		.wrapper.style3 {
@@ -810,7 +810,7 @@
 		background-size: 25em, 25em, auto, cover;
 		color: white;
 		cursor: default;
-		padding: 6em 0;
+		padding: 3em 0;
 		text-align: center;
 	}
 
@@ -922,7 +922,7 @@
 	#footer {
 		background: #e8eef4;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 5em 5em 4em 5em;
 		text-align: center;
 	}
 
