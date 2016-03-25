@@ -63,7 +63,7 @@
 		font-weight: 300;
 		line-height: 1.75em;
 		margin-bottom: 1em;
-		text-transform: none;
+		text-transform: lowercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -287,7 +287,7 @@
 			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
-			text-transform: none !important;
+			text-transform: lowercase !important;
 		}
 
 		.icon.circle {
@@ -337,7 +337,7 @@
 			}
 
 				.icon.circle.fa-google-plus:hover {
-					background: #df7b77;
+					background: #517fa4;
 				}
 
 			.icon.circle.fa-github {
@@ -516,7 +516,7 @@
 		line-height: 3.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: none;
+		text-transform: lowercase;
 	}
 
 		input[type="button"]:hover,
@@ -640,7 +640,7 @@
 			letter-spacing: 0.075em;
 			position: absolute;
 			right: 1.5em;
-			text-transform: none;
+			text-transform: lowercase;
 			top: 0.75em;
 		}
 
@@ -677,7 +677,7 @@
 					font-family: FontAwesome;
 					font-style: normal;
 					font-weight: normal;
-					text-transform: none !important;
+					text-transform: lowercase !important;
 				}
 
 				#header nav ul li.submenu > a:before {
@@ -749,7 +749,7 @@
 		line-height: 2.25em;
 		min-width: 13em;
 		padding: 1em 0;
-		text-transform: none;
+		text-transform: lowercase;
 		margin-top: calc(-1em + 1px);
 	}
 
@@ -965,7 +965,7 @@
 			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
-			text-transform: none !important;
+			text-transform: lowercase !important;
 		}
 
 		#topButton .toggle:before {
@@ -1009,7 +1009,7 @@
 			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
-			text-transform: none !important;
+			text-transform: lowercase !important;
 		}
 
 		#sideButton .toggle:before {
@@ -1043,7 +1043,7 @@
 		color: white;
 		font-size: 0.8em;
 		letter-spacing: 0.075em;
-		text-transform: none;
+		text-transform: lowercase;
 	}
 
 		#topPanel nav,
