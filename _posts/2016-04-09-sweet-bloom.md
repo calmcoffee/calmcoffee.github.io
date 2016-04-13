@@ -2,13 +2,14 @@
 layout: post
 title:  "a quick visit to Sweet Bloom Coffee Roasters"
 date:   2016-04-09
-permalink: /sweet.bloom.html
+permalink: /sweet.bloom/
+excerpt_separator: <!--more-->
 ---
 
 ## the setup
 
 So I've debated a lot about what should be my first post.  I have quite a few visits and beans ready to go, but I decided to go with my most recent visit to Sweet Bloom Coffee Roasters in Lakewood.  
-
+<!--more-->
 To start, I haven't been telling shops I was starting a blog or anything like that, so they didn't know it when I walked in.  I did this because I wanted a genuine experience and I also was a bit scared to (see the About where I mention my anxiety).  This is what followed.
 
 P.S. There is a summary at the end if you're pressed for time.
